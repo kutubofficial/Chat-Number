@@ -1,8 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import './Hooks.css';
 const Hook = ()=>{
-    const initialData = 10;
-    console.log(initialData);
+
     const [myNum, setMyNum]= useState(0)
     useEffect(()=>{
         document.title= `Chats(${myNum})`
