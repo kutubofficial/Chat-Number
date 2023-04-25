@@ -16,7 +16,7 @@ const Colour = () => {
     
     return (
         <div>
-            <button id="btn" onClick={changeColour}>Change Color</button>
+            <button id="btn1"className="button-89" onClick={changeColour}>Change Color</button>
         </div>
     )
 }

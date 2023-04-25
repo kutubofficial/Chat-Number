@@ -12,11 +12,11 @@ button{
 h1{
     color: red;
     font-size: 5rem;
-    border: 5px solid white;
+    border: 5px solid rgb(241, 179, 179);
     padding: 10px;
     margin-left:13rem ;
     margin-right:13rem ;
     border-radius: 16rem;
-    background-color: azure;
+    background-color: rgb(185, 238, 238);
 
 }
